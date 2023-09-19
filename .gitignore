@@ -1,0 +1,6 @@
+/.idea/
+/.gradle/
+
+/facade/build/
+/flyweight/build/
+/proxy/build/

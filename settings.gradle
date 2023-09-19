@@ -1,0 +1,5 @@
+rootProject.name = 'lec3example'
+include 'facade'
+include 'flyweight'
+include 'proxy'
+
